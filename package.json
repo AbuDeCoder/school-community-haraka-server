@@ -1,0 +1,20 @@
+{
+  "name": "haraka",
+  "version": "1.0.0",
+  "description": "mail server for school community",
+  "main": "index.js",
+  "scripts": {
+    "create-service": "haraka -i ./service",
+    "start": "haraka -c ./service",
+    "test": "test"
+  },
+  "keywords": [
+    "mail",
+    "server"
+  ],
+  "author": "Abubaker ssemugooma",
+  "license": "ISC",
+  "dependencies": {
+    "Haraka": "^3.1.1"
+  }
+}

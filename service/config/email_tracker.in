@@ -1,0 +1,4 @@
+[main]
+# IMPORTANT: Replace with the actual base URL of your tracking server.
+# This should be publicly accessible for email clients to hit it.
+tracking_base_url=http://localhost:3000
